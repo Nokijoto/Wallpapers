@@ -4,8 +4,14 @@ A curated collection of wallpapers organized by theme and style.
 
 ## Root Directory
 
+![1-kanagawa](./1-kanagawa.jpg)
 ![345780](./345780.jpg)
-![345780](./sakura_1.jpg)
+![demon slayer](./demon-slayer-5120x2880-17629.jpg)
+![haikyuu group](./haikyuu-group.jpg)
+![pinkish red outdoor](./pinkish-red-outdoor-3840x2160-20791.jpg)
+![sakura](./sakura.png)
+![sakura 1](./sakura_1.jpg)
+![tanjiro kamado red](./tanjiro-kamado-red-5120x2880-22577.png)
 ![dark-mac](./mac_.jpg)
 ![dark-mac-2](./mac__.jpg)
 ![a beach with waves and rocks](./a_beach_with_waves_and_rocks.jpg)
@@ -119,7 +125,6 @@ A curated collection of wallpapers organized by theme and style.
 ![Nocturne of Steel and Glass](./Nocturne-of-Steel-and-Glass.png)
 ![nvim](./nvim.png)
 ![orange art](./orange-art.jpg)
-![oxocarbon evangelion](./oxocarbon-evangelion.jpg)
 ![patterns](./patterns.jpg)
 ![PJbX0MG](./PJbX0MG.png)
 ![pony](./pony.jpg)
