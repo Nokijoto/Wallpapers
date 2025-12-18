@@ -298,3 +298,4 @@ A curated collection of wallpapers organized by theme and style.
 ![the snap hunt camping](./others/the-snap-hunt-camping.png)
 ![the sphere](./others/the-sphere.png)
 ![this wallpaper is not available](./others/this-wallpaper-is-not-available.png)
+![aamis](./others/aamis.jpg)
