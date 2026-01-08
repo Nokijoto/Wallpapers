@@ -294,6 +294,8 @@ A curated collection of wallpapers organized by theme and style.
 ![street](./others/street.png)
 ![sunset layers](./others/sunset_layers.png)
 ![tanjiro kamado red 5120x2880 22577](./others/tanjiro-kamado-red-5120x2880-22577.png)
+![Red Samurai](./others/red_samurai.png)
+![Manga](./others/manga.png)
 ![tetris gruvbox brighter lighter](./others/tetris_gruvbox_brighter_lighter.png)
 ![the snap hunt camping](./others/the-snap-hunt-camping.png)
 ![the sphere](./others/the-sphere.png)
